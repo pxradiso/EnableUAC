@@ -28,7 +28,7 @@ Ideal if UAC has been **disabled, corrupted, or misconfigured**.
 ---
 
 ## 🧩 Supported Versions  
-- Windows 10 😉  
+- Windows 10 😎 
 - Windows 11 🪟  
 
 ---
