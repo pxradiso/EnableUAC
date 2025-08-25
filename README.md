@@ -10,8 +10,11 @@
 Ideal if UAC has been **disabled, corrupted, or misconfigured**.
 
 ---
+
 ## 🐱‍🏍 Demo of EnableUAC 
 ![Demo EnableUAC](https://github.com/pxradiso/EnableUAC/raw/main/demo.gif)
+
+---
 
 ## ⚙️ How it works  
 - **Administrator privileges are required** to run the script.  
@@ -29,11 +32,8 @@ Ideal if UAC has been **disabled, corrupted, or misconfigured**.
 
 ---
 
-## ✅ Why EnableUAC?  
-Having UAC active helps you:  
-- Block unauthorized system changes  
-- Reduce malware risks  
-- Preserve system integrity during installations  
+## ✅ Here is proof that it works
+![Demo EnableUAC 2](https://github.com/pxradiso/EnableUAC/raw/main/demo2.gif)
 
 ---
 
