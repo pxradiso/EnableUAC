@@ -9,7 +9,7 @@
 ## 🖥️ What is EnableUAC?  
 **EnableUAC** is a lightweight script that restores and enables **User Account Control (UAC)** on Windows.  
 Ideal if UAC has been **disabled, corrupted, or misconfigured**.
-
+![Demo EnableUAC](https://github.com/pxradiso/EnableUAC/raw/main/demo.gif)
 ---
 
 ## ⚙️ How it works  
