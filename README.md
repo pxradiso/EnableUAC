@@ -62,7 +62,7 @@ Having UAC active helps you:
 
 4. Inside that folder, if the project is compressed (e.g., ZIP), **extract** it.
 
-5. **Right-click** the `.exe` file and select **Run as administrator**, or from File Explorer use **"Run as administrator" via context menu or ribbon**. ([windowscentral.com](https://www.windowscentral.com/how-run-app-administrator-windows-10?utm_source=chatgpt.com))
+5. **Right-click** the `.exe` file and select **Run as administrator**, or from File Explorer use **"Run as administrator" via context menu or ribbon**.
 
 ---
 
