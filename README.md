@@ -1,7 +1,7 @@
 # ⚡ EnableUAC  
 
 [![Made with ❤️ by pxradise](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](https://github.com/pxradise)  
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)](#)  
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue?logo=windows11/10)](#)  
 [![License](https://img.shields.io/badge/License-MIT-green)](#)  
 
 ---
