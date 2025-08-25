@@ -71,13 +71,4 @@ Having UAC active helps you:
 2. Expand the **Assets** section under the desired release.  
 3. Download the **EXE** or **ZIP** file.  
 4. If ZIP, **extract** it.  
-5. **Run the `.exe` as Administrator** to launch the script. ([windowscentral.com](https://www.windowscentral.com/how-run-app-administrator-windows-10?utm_source=chatgpt.com))
-
----
-
-## 📸 Preview  
-```text
-[INFO] Running as Administrator...
-[INFO] Enabling UAC...
-[SUCCESS] UAC has been restored to default (Always Notify).
-Do you want to restart your PC now? (Y/N)
+5. **Run the `.exe` as Administrator** to launch the script.
