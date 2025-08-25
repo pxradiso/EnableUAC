@@ -3,7 +3,7 @@
 [![Made with ❤️ by pxradise](https://img.shields.io/badge/made%20with-%E2%9D%A4-red?style=for-the-badge)](https://github.com/pxradise)  
 [![Platform: Windows 10/11](https://img.shields.io/badge/platform-Windows%2010%2F11-blue?logo=windows&logoColor=white&style=for-the-badge)](#)  
 [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge)](#)
-![Demo EnableUAC](https://github.com/pxradiso/EnableUAC/raw/main/demo.gif)
+[![Demo EnableUAC](https://github.com/pxradiso/EnableUAC/raw/main/demo.gif])
 ---
 
 ## 🖥️ What is EnableUAC?  
