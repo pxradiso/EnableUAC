@@ -1,6 +1,6 @@
 # ⚡ EnableUAC
 
-[![Made with ❤️ by pxradise](https://img.shields.io/badge/made%20with-%E2%9D%A4-red?style=for-the-badge)](https://github.com/pxradise)  
+[![Made with ❤️ by pxradise](https://img.shields.io/badge/made%20with-%E2%9D%A4-red?style=for-the-badge)](https://github.com/pxradiso)  
 [![Source Code](https://img.shields.io/badge/Source%20Code-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pxradiso/EnableUAC-OpenSource)  
 [![Platform: Windows 10/11](https://img.shields.io/badge/platform-Windows%2010%2F11-blue?logo=windows&logoColor=white&style=for-the-badge)](#)  
 [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge)](#)
