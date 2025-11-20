@@ -57,7 +57,7 @@ Ideal if UAC has been **disabled, corrupted, or misconfigured**.
 3. Run:
 
     ```bash
-    git clone https://github.com/pxradise/EnableUAC.git
+    git clone https://github.com/pxradiso/EnableUAC.git
     ```
 
     This creates a new `EnableUAC` folder with the full project history. ([git-scm.com](https://git-scm.com/docs/git-clone?utm_source=chatgpt.com))
