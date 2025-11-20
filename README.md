@@ -12,7 +12,7 @@ Ideal if UAC has been **disabled, corrupted, or misconfigured**.
 
 ---
 
-## 🐱‍🏍 Demo of EnableUAC 
+## 🏍️ Demo of EnableUAC 
 ![Demo EnableUAC](https://github.com/pxradiso/EnableUAC/raw/main/demo.gif)
 
 ---
